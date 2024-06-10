@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Password Generator",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://password-generator-indol-phi.vercel.app/",
+    "source": "https://github.com/Kirtan82004/PasswordGenerator"
+  },
+  {
+    "title": "Random-Quote-Machine",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://random-quote-machine-blond-one.vercel.app/",
+    "source": "https://github.com/Kirtan82004/random-quote-machine"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
